@@ -5,7 +5,7 @@ from io_utils import *
 from shotgun_utils import *
 from tqdm import tqdm
 from time import time
-from kmer_utils import *
+from graph_utils import *
 
 
 def make_arg_parser():
